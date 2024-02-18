@@ -1,3 +1,5 @@
+import '../node_modules/chart.js/dist/chart.umd.js';
+
 const n = 1000;
 let randomValuesBelow0point5 = [];
 let randomValuesAbove0point5 = [];
